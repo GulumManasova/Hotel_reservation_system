@@ -1,5 +1,6 @@
 # 3 tables with columns
-<img width="1150" alt="Screenshot 2025-04-08 at 17 16 16" src="https://github.com/user-attachments/assets/23338606-4b6a-4e49-873e-c486b896f93b" />
+<img width="1150" alt="Screenshot 2025-04-08 at 17 16 16" src="https://github.com/user-attachments/assets/62ff5911-7b84-4840-8256-1447287a096f" />
+
 
 
 <img width="1150" alt="Image" src="https://github.com/user-attachments/assets/f74c916e-5a02-4452-88d7-0a4f0c2b69a2" />
