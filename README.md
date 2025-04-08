@@ -1,9 +1,9 @@
 # 3 tables with columns
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/5be8c35c-65d5-4899-acf3-3302666b4386" />
+<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/7955bb83-e63a-4795-8d1a-a7874609cfe1" />
 
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/b7bb6252-33e8-48b0-bf43-19d6a6a5db26" />
+<img width="1150" alt="Image" src="https://github.com/user-attachments/assets/f74c916e-5a02-4452-88d7-0a4f0c2b69a2" />
 
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/c8f0e774-eaf4-41ab-b69d-38159219813e" />
+<img width="1150" alt="Image" src="https://github.com/user-attachments/assets/e5a8a032-523c-4cae-9f57-0ab9b6f5ef36" />
 
 
 ## reports
