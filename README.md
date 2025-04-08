@@ -1,15 +1,9 @@
 # 3 tables with columns
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/e5921ef3-71e8-4c3b-ab76-137ccfdd8375" />
+<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/5be8c35c-65d5-4899-acf3-3302666b4386" />
 
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/15f45d0c-e4cd-4fc0-81ac-e8e42b6d26aa" />
+<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/b7bb6252-33e8-48b0-bf43-19d6a6a5db26" />
 
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/0081f5db-564d-49ec-ab61-479fc5c1515c" />
-
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/47bed04b-083b-4357-b577-bfc2f3abbb05" />
-
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/723083e0-3831-4f16-91a9-1763e0c497e2" />
-
-<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/471bf5c3-3f3f-4698-b23e-ac4521e8d1ea" />
+<img width="1149" alt="Image" src="https://github.com/user-attachments/assets/c8f0e774-eaf4-41ab-b69d-38159219813e" />
 
 
 ## reports
